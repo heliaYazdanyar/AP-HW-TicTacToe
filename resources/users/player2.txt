@@ -1,0 +1,1 @@
+{'username':'player2','wins':2,'loses':2,'score':0}
